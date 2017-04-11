@@ -35,6 +35,10 @@
 ### Android动画
 [alpha、scale、translate、rotate、set 的 xml 属性及用法](http://wiki.jikexueyuan.com/project/android-animation/1.html)
 
+### Dagger2
+[Dagger2 Scope 注解能保证依赖在 component 生命周期内的单例性吗？](https://blog.piasy.com/2016/04/11/Dagger2-Scope-Instance/)
+[Dagger2从入门到放弃再到恍然大悟](http://www.jianshu.com/p/39d1df6c877d)
+
 ### 架构
 [Android架构合集](https://raw.githubusercontent.com/Juude/Awesome-Android-Architecture/master/README.md)
 
