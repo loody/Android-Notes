@@ -19,7 +19,7 @@
 [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
 
 ### 源码解析
-[Android源码解析](http://blog.csdn.net/qq_23547831/article/details/51322574)
+[Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
 
 ### Dex拆分与加载
 [dex分包变形记](https://segmentfault.com/a/1190000004053072)
