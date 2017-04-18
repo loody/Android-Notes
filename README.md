@@ -4,8 +4,9 @@
 ### APK打包流程
 [Android APK打包流程](http://shinelw.com/2016/04/27/android-make-apk/)
 
-### Instant Run
+### Android编译
 [你真的了解Instant Run吗？](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650236001&idx=1&sn=f2ac9a45ebe0d59fa11d9599ad7cca50&scene=1&srcid=0531FeHOeE9jFfhPgH1AnA7Q#wechat_redirect)
+[Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com//articles/59122)
 
 ### Pthyon爬虫
 [Pthyon爬虫学习系列教程](http://www.androidblog.cn/index.php/Index/detail/id/16#)
@@ -41,4 +42,3 @@
 
 ### 架构
 [Android架构合集](https://raw.githubusercontent.com/Juude/Awesome-Android-Architecture/master/README.md)
-
