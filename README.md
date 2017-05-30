@@ -1,6 +1,9 @@
 # Android-Notes
 优秀的Android文章笔记
 
+### WebView
+[Android WebView：性能优化不得不说的事](http://motalks.cn/2016/09/11/Android-WebView-JavaScript-3/)
+
 ### APK打包流程
 [Android APK打包流程](http://shinelw.com/2016/04/27/android-make-apk/)
 
@@ -13,6 +16,7 @@
 
 ### 插件化
 [插件化开发](http://www.androidblog.cn/index.php/Index/detail/id/16#)
+
 [插件化知识详细分解](http://blog.csdn.net/yulong0809/article/details/56841993)
 
 ### Hotfix
@@ -23,7 +27,9 @@
 
 ### Dex拆分与加载
 [dex分包变形记](https://segmentfault.com/a/1190000004053072)
+
 [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html#)
+
 [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
 ### 组件化
@@ -31,6 +37,7 @@
 
 ### 贝塞尔曲线
 [Android 贝塞尔曲线的应用](http://www.jianshu.com/p/c0d7ad796cee)
+
 [Path中的贝塞尔曲线](https://github.com/Idtk/Blog/blob/master/Blog/6、Bezier.md)
 
 ### Android动画
@@ -38,7 +45,11 @@
 
 ### Dagger2
 [Dagger2 Scope 注解能保证依赖在 component 生命周期内的单例性吗？](https://blog.piasy.com/2016/04/11/Dagger2-Scope-Instance/)
+
 [Dagger2从入门到放弃再到恍然大悟](http://www.jianshu.com/p/39d1df6c877d)
 
 ### 架构
 [Android架构合集](https://raw.githubusercontent.com/Juude/Awesome-Android-Architecture/master/README.md)
+
+### Kotlin
+[From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/classes.html)
