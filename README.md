@@ -36,6 +36,8 @@
 ### 组件化
 [Android组件化方案](http://blog.csdn.net/guiying712/article/details/55213884)
 
+[Android 模块化探索与实践](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651435699&idx=1&sn=5e178b93e55f93d5981b294b519bb514&chksm=f1289bc8c65f12de20b5c3e0ccb3e2f8dd08e84078037a518a7afa2dea6dadc22e30804c06c0&mpshare=1&scene=23&srcid=0614EgJyKt5NiOPS0n5xZ2pC%23rd)
+
 ### 贝塞尔曲线
 [Android 贝塞尔曲线的应用](http://www.jianshu.com/p/c0d7ad796cee)
 
