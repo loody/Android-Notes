@@ -33,10 +33,12 @@
 
 [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
 
-### 组件化
+### 组件化 or 模块化
 [Android组件化方案](http://blog.csdn.net/guiying712/article/details/55213884)
 
 [Android 模块化探索与实践](https://mp.weixin.qq.com/s?__biz=MzI3MDE0NzYwNA==&mid=2651435699&idx=1&sn=5e178b93e55f93d5981b294b519bb514&chksm=f1289bc8c65f12de20b5c3e0ccb3e2f8dd08e84078037a518a7afa2dea6dadc22e30804c06c0&mpshare=1&scene=23&srcid=0614EgJyKt5NiOPS0n5xZ2pC%23rd)
+
+[微信Android模块化架构重构实践](https://mp.weixin.qq.com/s/6Q818XA5FaHd7jJMFBG60w)
 
 ### 贝塞尔曲线
 [Android 贝塞尔曲线的应用](http://www.jianshu.com/p/c0d7ad796cee)
@@ -59,3 +61,6 @@
 
 ### Router
 [Router](https://github.com/chenenyu/Router)
+
+### 注解
+[Android编译时注解框架系列](https://lizhaoxuan.github.io/2016/07/17/apt-wathapt/)
