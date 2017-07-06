@@ -59,6 +59,8 @@
 ### Kotlin
 [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/classes.html)
 
+[学 Kotlin 看这一篇教程就够了](https://juejin.im/post/591dd9f544d904006c9fbb96?utm_source=gold_browser_extension)
+
 ### Router
 [Router](https://github.com/chenenyu/Router)
 
