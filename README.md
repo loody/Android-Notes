@@ -69,3 +69,6 @@
 
 ### React Native
 [写给移动开发者的 React Native 指南](http://wingjay.com/2017/03/14/%E5%86%99%E7%BB%99%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84-React-Native-%E6%8C%87%E5%8D%97/)
+
+### 性能优化
+[Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
