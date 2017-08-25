@@ -72,3 +72,6 @@
 
 ### 性能优化
 [Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
+
+### Android 快捷键速览
+[Android Studio 小技巧/快捷键](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
