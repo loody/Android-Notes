@@ -49,9 +49,12 @@
 [alpha、scale、translate、rotate、set 的 xml 属性及用法](http://wiki.jikexueyuan.com/project/android-animation/1.html)
 
 ### Dagger2
+[依赖注入神器：Dagger2详解系列](https://dreamerhome.github.io/2016/07/07/dagger/)
+
 [Dagger2 Scope 注解能保证依赖在 component 生命周期内的单例性吗？](https://blog.piasy.com/2016/04/11/Dagger2-Scope-Instance/)
 
 [Dagger2从入门到放弃再到恍然大悟](http://www.jianshu.com/p/39d1df6c877d)
+
 
 ### 架构
 [Android架构合集](https://raw.githubusercontent.com/Juude/Awesome-Android-Architecture/master/README.md)
@@ -72,6 +75,3 @@
 
 ### 性能优化
 [Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
-
-### Android 快捷键速览
-[Android Studio 小技巧/快捷键](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
