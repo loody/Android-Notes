@@ -75,3 +75,8 @@
 
 ### 性能优化
 [Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
+
+## HashMap
+[什么是HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191907&idx=1&sn=876860c5a9a6710ead5dd8de37403ffc&chksm=8c990c39bbee852f71c9dfc587fd70d10b0eab1cca17123c0a68bf1e16d46d71717712b91509&scene=38#wechat_redirect)
+
+[HashMap解读](http://dandanlove.com/2017/10/27/late-one-year-hashmap/)
