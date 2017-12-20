@@ -73,6 +73,8 @@
 ### React Native
 [写给移动开发者的 React Native 指南](http://wingjay.com/2017/03/14/%E5%86%99%E7%BB%99%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84-React-Native-%E6%8C%87%E5%8D%97/)
 
+[其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
+
 ### 性能优化
 [Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
 
@@ -80,6 +82,3 @@
 [什么是HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191907&idx=1&sn=876860c5a9a6710ead5dd8de37403ffc&chksm=8c990c39bbee852f71c9dfc587fd70d10b0eab1cca17123c0a68bf1e16d46d71717712b91509&scene=38#wechat_redirect)
 
 [HashMap解读](http://dandanlove.com/2017/10/27/late-one-year-hashmap/)
-
-## React Native
-[其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
