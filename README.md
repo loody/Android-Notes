@@ -71,9 +71,10 @@
 [Android编译时注解框架系列](https://lizhaoxuan.github.io/2016/07/17/apt-wathapt/)
 
 ### React Native
-[写给移动开发者的 React Native 指南](http://wingjay.com/2017/03/14/%E5%86%99%E7%BB%99%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84-React-Native-%E6%8C%87%E5%8D%97/)
+[react-native-android-guide](https://github.com/xujinyang/react-native-android-guide)
 
 [其实没那么复杂！探究react-native通信机制](http://zjutkz.net/2016/05/03/%E5%85%B6%E5%AE%9E%E6%B2%A1%E9%82%A3%E4%B9%88%E5%A4%8D%E6%9D%82%EF%BC%81%E6%8E%A2%E7%A9%B6react-native%E9%80%9A%E4%BF%A1%E6%9C%BA%E5%88%B6/)
+
 
 ### 性能优化
 [Android性能优化](http://www.jianshu.com/p/f5514b1a826c)
