@@ -86,3 +86,6 @@
 
 ## Java的四种引用
 [Java四种引用解析以及在Android的应用](https://juejin.im/post/5a37355b6fb9a0450003256c)
+
+## http
+[浅谈HTTP协议](http://gityuan.com/2015/06/20/http-agreement/)
