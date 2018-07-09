@@ -23,6 +23,8 @@
 ### Hotfix
 [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
 
+[Android热补丁之Robust原理解析](http://w4lle.com/2017/03/31/robust-0/index.html)
+
 ### 源码解析
 [Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
 
@@ -32,6 +34,8 @@
 [Android Dex分包之旅](http://yydcdut.com/2016/03/20/split-dex/index.html#)
 
 [其实你不知道MultiDex到底有多坑](http://blog.zongwu233.com/the-touble-of-multidex)
+
+[百转千回的too many classes in --main-dex-list](http://iceanson.github.io/%E7%99%BE%E8%BD%AC%E5%8D%83%E5%9B%9E%E7%9A%84too-many-classes-in-main-dex-list)
 
 ### 组件化 or 模块化
 [Android组件化方案](http://blog.csdn.net/guiying712/article/details/55213884)
