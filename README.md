@@ -86,7 +86,7 @@
 ## HashMap
 [什么是HashMap](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653191907&idx=1&sn=876860c5a9a6710ead5dd8de37403ffc&chksm=8c990c39bbee852f71c9dfc587fd70d10b0eab1cca17123c0a68bf1e16d46d71717712b91509&scene=38#wechat_redirect)
 
-[HashMap解读](http://dandanlove.com/2017/10/27/late-one-year-hashmap/)
+[HashMap解读](http://www.cnblogs.com/chengxiao/p/6059914.html)
 
 ## Java的四种引用
 [Java四种引用解析以及在Android的应用](https://juejin.im/post/5a37355b6fb9a0450003256c)
