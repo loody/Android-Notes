@@ -25,6 +25,8 @@
 
 [Android热补丁之Robust原理解析](http://w4lle.com/2017/03/31/robust-0/index.html)
 
+[Android 热修复概览](https://www.jianshu.com/p/ad7b94f7e8dd)
+
 ### 源码解析
 [Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
 
@@ -95,3 +97,5 @@
 
 ## http
 [浅谈HTTP协议](http://gityuan.com/2015/06/20/http-agreement/)
+
+[必知必会的网络基础](http://www.blogjava.net/jb2011/archive/2018/09/17/433383.html)
