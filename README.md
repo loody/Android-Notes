@@ -27,8 +27,8 @@
 
 [Android 热修复概览](https://www.jianshu.com/p/ad7b94f7e8dd)
 
-### 源码解析
-[Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis/blob/master/README.md)
+### Xposed
+[Xposed](https://www.wrbug.com/2017/04/25/Xposed%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%BC%83%E5%9D%91%EF%BC%9A%E4%B8%80%E3%80%81Xposed%E5%88%9D%E6%8E%A2/
 
 ### Dex拆分与加载
 [dex分包变形记](https://segmentfault.com/a/1190000004053072)
@@ -99,3 +99,4 @@
 [浅谈HTTP协议](http://gityuan.com/2015/06/20/http-agreement/)
 
 [必知必会的网络基础](http://www.blogjava.net/jb2011/archive/2018/09/17/433383.html)
+
