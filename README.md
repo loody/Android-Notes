@@ -106,3 +106,5 @@
 ## 动态代理，静态代理
 [动态代理，静态代理](https://mp.weixin.qq.com/s/dSt4ifbAaRxPAc7gCAVxoA)
 
+## Gradle
+[build.gradle管理依赖的版本(传递(transitive)\排除(exclude)\强制(force)\动态版本(+))]（https://juejin.im/entry/59918304518825489151732d）
