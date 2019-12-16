@@ -108,3 +108,6 @@
 
 ## Gradle
 [build.gradle管理依赖的版本(传递(transitive)\排除(exclude)\强制(force)\动态版本(+))]（https://juejin.im/entry/59918304518825489151732d）
+
+## AOP
+[谈谈Android AOP技术方案](https://juejin.im/post/5deee716e51d4557fe5945c4?utm_source=gold_browser_extension)
